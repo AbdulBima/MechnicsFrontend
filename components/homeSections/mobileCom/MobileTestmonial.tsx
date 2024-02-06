@@ -69,7 +69,7 @@ const MobileTestmonial = () => {
 														running
 														smoothly,
 														and
-														I'm
+														I&apos;m
 														impressed
 														with
 														their
@@ -197,7 +197,7 @@ const MobileTestmonial = () => {
 														is
 														crucial,
 														and
-														I'm
+														I&apos;m
 														glad
 														I
 														found

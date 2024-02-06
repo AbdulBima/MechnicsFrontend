@@ -48,7 +48,7 @@ const Packages = () => {
 						Explore our tailored packages
 						designed to meet the unique needs of
 						every car. From compact cars to
-						SUVs, we've got you covered with
+						SUVs, we&apos;ve got you covered with
 						comprehensive services to keep your
 						vehicle in peak condition.
 					</p>

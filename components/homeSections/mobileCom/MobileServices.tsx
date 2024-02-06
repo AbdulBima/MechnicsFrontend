@@ -72,7 +72,7 @@ const MobileServices = () => {
 									Maintenance
 								</h5>
 								<p className='text-white mx-6 mb-10 opacity-80'>
-									Maximize your car's
+									Maximize your car&apos;s
 									lifespan with our
 									hassle-free maintenance
 									services, covering

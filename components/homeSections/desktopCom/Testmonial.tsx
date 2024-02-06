@@ -64,7 +64,7 @@ const Testmonial = () => {
 														running
 														smoothly,
 														and
-														I'm
+														I&apos;m
 														impressed
 														with
 														their
@@ -216,7 +216,7 @@ const Testmonial = () => {
 														top-notch
 														condition.
 														Excellent
-														work!
+														work
 													</p>
 												</blockquote>
 												<figcaption className='relative flex items-center justify-between pt-6 mt-6 border-t border-gray-100'>
